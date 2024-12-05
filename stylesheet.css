@@ -1,0 +1,61 @@
+/* Style for the body */
+body {
+    background-color: #4CAF50;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the table */
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #E8F5E9;
+}
+
+/* Style for the table caption */
+caption {
+    caption-side: bottom;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #4CAF50;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+/* Style for the table cells */
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+/* Style for the table header cells */
+td:first-child {
+    font-weight: bold;
+    text-align: right;
+    background-color: #A5D6A7;
+}
+
+/* Style for the ordered list */
+ol {
+    padding-left: 20px;
+}
+
+/* Style for the figure */
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the image */
+img {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
